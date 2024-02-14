@@ -60,7 +60,7 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 - `!d12`: Rolls a D12 dice.
 - `!d20`: Rolls a D20 dice.
 
-##Important Command Notes <a name="notes"></a>
+## Important Command Notes <a name="notes"></a>
 1. All commands will automaticly delete their trigger message to keep your server looking clean.
 
 2. All Bot messages should send as an embed and pull their messages from the `Bot Messages` folder. The messages in these files can be edited however you would like the bot to respond! Just make sure the to keep ALL the numbers for each dice thier coresponding `dice_messages.txt` files.
