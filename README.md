@@ -67,7 +67,7 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 
 3. All Commands will run in the channel users used them in. Some Commands will send the responces to specific commands to the Channel you specify in the `YOUR_CHANNEL_ID` Sections of the code. 
   These Commands include:
-  - `!suggest`, `!poll`, and `!invite`.
+    - `!suggest`, `!poll`, and `!invite`.
 
 4. The `!ticket` command will create a new ticket named `ticket-<users username>` and the `!delete_ticket` and `log_ticket` commands only work in these messages.
    - This command will also send a support message to that channel tagging the user so they know the ticket was created.
