@@ -35,7 +35,7 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 4. Replace `'YOUR_DISCORD_BOT_TOKEN'` and `'YOUR_CHANNEL_ID'` in the code with your actual Discord Dot Token and Channel IDs.
 5. Customize the bot's behavior and messages according to your preferences.
 6. Delete the `'DELETE_ME.txt'` file from the `'Ticket Logs'` *Not Required but I would lol
-7. Deploy the bot to your server. 
+7. Deploy the bot to your server however you'd like! Options too keep your bot up and running all the time are in the `Important Notes` section. 
 
 ## Commands <a name="commands"></a>
 - **Server Commands**: 
@@ -72,6 +72,10 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 4. The `!ticket` command will create a new ticket named `ticket-<users username>` and the `!delete_ticket` and `log_ticket` commands only work in these messages.
    - This command will also send a support message to that channel tagging the user so they know the ticket was created.
    - Only people with the @Moderator tag and the user who the ticket is named after will be able to see the newly created channel.
+  
+5. To deploy the bot to your server and keep it running all the time you have a few options
+   - I use a [Raspberry Pi 3B+](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/ref=sr_1_3?keywords=raspberry+pi+3b%2B&qid=1707900285&sr=8-3) to run mine on, but im sure any Pi would work. 
+   - You can also a Cloud Hosting Service like [Heroku](https://www.heroku.com/?utm_source=google&utm_medium=paid_search&utm_campaign=amer_heraw&utm_content=general-branded-search-rsa&utm_term=heroku&gad_source=1&gclid=Cj0KCQiA5rGuBhCnARIsAN11vgSBB_HcY1-m5s-J08hYCxfpPLxoGlskSptqZ92NvNlM8K7EtV_o89oaAgfBEALw_wcB) if you don't have a Raspberry Pi. 
  
 ## Thank You! <a name="thanks"></a>
 Thank you for choosing Guam's Server Bot! If you have any questions or need further assistance consider joining my [Discord](https://discord.gg/sKhasKfd)
