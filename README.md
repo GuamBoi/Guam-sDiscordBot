@@ -38,7 +38,7 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 7. Deploy the bot to your server however you'd like! Options too keep your bot up and running all the time are in the `Important Notes` section. 
 
 ## Commands <a name="commands"></a>
-- **Server Commands**: 
+**Server Commands**: 
 - `!suggest <your suggestion>`: Creates a server suggestion in the Specified Channel.
 - `!poll <poll question>`: Creates a server poll in the Specified Channel.
 - `!ticket`: Creates a new private ticket with the server Mods in the Specified Channel Category must have an @moderator tag or change this in the code.
@@ -49,12 +49,12 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 - `!coinflip`: Flips a coin.
 - `!timer <HH:MM>`: Set a timer. Make sure users time amount matches the code format!
 
-- **Voice Chat Commands**:
+**Voice Chat Commands**:
 - `!voice_commands`: Lists all the voice chat commands.
 - `!mute`: Mutes you and all members in the same voice chat with as the user. * We use this for Lethal Company
 - `!unmute`: Unmutes you and all members in the voice chat as the user. * We use this for Lethal Company
 
-- **Dice Commands**:
+**Dice Commands**:
 - `!d4`: Rolls a D4 dice.
 - `!roll`: Rolls a normal D6 dice.
 - `!d8`: Rolls a D8 dice.
