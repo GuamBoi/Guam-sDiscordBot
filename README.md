@@ -48,10 +48,12 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 - `!invite`: Sends an invite for the game you're playing in the Specified Channel. *Users must allow discord to see what game they are playing to use this command.
 - `!coinflip`: Flips a coin.
 - `!timer <HH:MM>`: Set a timer. Make sure users time amount matches the code format!
+
 - **Voice Chat Commands**:
 - `!voice_commands`: Lists all the voice chat commands.
 - `!mute`: Mutes you and all members in the same voice chat with as the user. * We use this for Lethal Company
 - `!unmute`: Unmutes you and all members in the voice chat as the user. * We use this for Lethal Company
+
 - **Dice Commands**:
 - `!d4`: Rolls a D4 dice.
 - `!roll`: Rolls a normal D6 dice.
