@@ -309,7 +309,7 @@ async def delete_ticket(ctx):
     else:
         await ctx.send("This command can only be used in a ticket channel.")
 
-# Log Tocket Command
+# Log Ticket Command
 @client.command()
 async def log_ticket(ctx):
     if isinstance(ctx.channel, discord.TextChannel) and ctx.channel.category.name == "Tickets":
