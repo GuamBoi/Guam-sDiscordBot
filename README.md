@@ -7,7 +7,6 @@ Welcome to Guam's Server Bot! This bot is designed to enhance your Discord serve
 2. [Features](#features)
 3. [Setup](#setup)
 4. [Commands](#commands)
-5. [Thank You!](#thanks)
 6. [Important Notes](#notes)
 
 ## Introduction <a name="introduction"></a>
@@ -78,6 +77,3 @@ To set up Guam's Server Bot for your Discord server, follow these steps:
 5. To deploy the bot to your server and keep it running all the time you have a few options
    - I use a [Raspberry Pi 3B+](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/ref=sr_1_3?keywords=raspberry+pi+3b%2B&qid=1707900285&sr=8-3) to run mine on, but im sure any Pi would work. 
    - You can also a Cloud Hosting Service like [Heroku](https://www.heroku.com/?utm_source=google&utm_medium=paid_search&utm_campaign=amer_heraw&utm_content=general-branded-search-rsa&utm_term=heroku&gad_source=1&gclid=Cj0KCQiA5rGuBhCnARIsAN11vgSBB_HcY1-m5s-J08hYCxfpPLxoGlskSptqZ92NvNlM8K7EtV_o89oaAgfBEALw_wcB) if you don't have a Raspberry Pi. 
- 
-## Thank You! <a name="thanks"></a>
-Thank you for choosing Guam's Server Bot! If you have any questions or need further assistance consider joining my [Discord](https://discord.gg/sKhasKfd)
